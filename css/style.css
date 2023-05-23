@@ -240,7 +240,7 @@ color: white !important;;
 
 .header-carousel .owl-nav .owl-prev,
 .header-carousel .owl-nav .owl-next {
-    margin: 7px 0;
+    margin: 7px 0;z
     width: 45px;
     height: 45px;
     display: flex;
